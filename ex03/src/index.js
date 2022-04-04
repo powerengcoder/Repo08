@@ -1,6 +1,7 @@
 function localScope(){
 
-    var myVariable = "test";
+    var myVariable = "I am here!";
+    console.log(myVariable);
 }
 
 localScope();
